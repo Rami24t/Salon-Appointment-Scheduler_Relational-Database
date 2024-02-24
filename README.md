@@ -12,3 +12,4 @@ These are the files resulting from the completion of the project:
 - [salon .sql PostgreSQL database dump](https://github.com/Rami24t/Salon-Appointment-Scheduler_Relational-Database/blob/main/salon.sql)
 - [insert services .sh script](https://github.com/Rami24t/Salon-Appointment-Scheduler_Relational-Database/blob/main/insert_services.sh)
 - [create salon database structure .sh script](https://github.com/Rami24t/Salon-Appointment-Scheduler_Relational-Database/blob/main/create_database_structure.sh)
+- [output examples text file](./output_examples.txt)
