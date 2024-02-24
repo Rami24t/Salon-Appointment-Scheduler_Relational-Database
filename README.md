@@ -9,6 +9,6 @@ I have saved all the required files into this public repository and submitted th
 These are the files resulting from the completion of the project:
 - [salon .sh bash shell program](./salon.sh)
 - [salon .sql PostgreSQL database dump](./salon.sql)
-- [insert services .sh script](./insert_services.sh)
+- [insert 5 services .sh script](./insert_services.sh)
 - [create salon database structure .sh script](./create_database_structure.sh)
 - [output examples text file](./output_examples.txt)
