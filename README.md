@@ -10,5 +10,5 @@ I have saved all the required files into this public repository and submitted th
 These are the files resulting from the completion of the project:
 - [salon .sh bash shell program](https://github.com/Rami24t/Salon-Appointment-Scheduler_Relational-Database/blob/main/salon.sh)
 - [salon .sql PostgreSQL database dump](https://github.com/Rami24t/Salon-Appointment-Scheduler_Relational-Database/blob/main/salon.sql)
-- [insert services .sh script]()
-- [create salon database structure .sh script] ()
+- [insert services .sh script](https://github.com/Rami24t/Salon-Appointment-Scheduler_Relational-Database/blob/main/insert_services.sh)
+- [create salon database structure .sh script](https://github.com/Rami24t/Salon-Appointment-Scheduler_Relational-Database/blob/main/create_database_structure.sh)
