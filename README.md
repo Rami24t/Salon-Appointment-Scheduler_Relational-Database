@@ -1,4 +1,5 @@
-# PostgreSQL Relational Database and BASH shell | Salon Appointment Scheduler
+# PostgreSQL Relational Database & Bash Shell
+# Salon Appointment Scheduler program
 
 This 'Build a Salon Appointment Scheduler' SQL relational database & bash shell project is part of the freeCodeCamp 'Relational Database' curricumlum and certification.
 
