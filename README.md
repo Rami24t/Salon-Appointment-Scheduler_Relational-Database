@@ -8,5 +8,7 @@ The project was done in a virtual Linux machine using gitpod and after completin
 I have saved all the required files into this public repository and submitted the solution URL.
 
 These are the files resulting from the completion of the project:
-- [salon bash shell program](https://github.com/Rami24t/Salon-Appointment-Scheduler_Relational-Database/blob/main/salon.sh)
-- [salon psql database]()
+- [salon .sh bash shell program](https://github.com/Rami24t/Salon-Appointment-Scheduler_Relational-Database/blob/main/salon.sh)
+- [salon .sql PostgreSQL database dump](https://github.com/Rami24t/Salon-Appointment-Scheduler_Relational-Database/blob/main/salon.sql)
+- [insert services .sh script]()
+- [create salon database structure .sh script] ()
